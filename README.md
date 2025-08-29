@@ -54,11 +54,11 @@ The notebook provides the following charts for analysis:
 
 #### 1. **ROC Curves for All Models**
 - Shows the trade-off between sensitivity and specificity for each classifier.
-![ROC Curve Example](assets/roc_curve_example.png)
+![Image Alt](https://github.com/Debraj-80/ML-Diabetes-Classifier/blob/8cbf07b0f141c4b283948343c63ff6e28f7746a3/assets/3.png)
 
 #### 2. **Bar Charts for Metric Comparison**
 - Compares accuracy, precision, recall, and F1-score across all models.
-![Bar Chart Example](assets/bar_chart_example.png)
+![Image Alt](https://github.com/Debraj-80/ML-Diabetes-Classifier/blob/8cbf07b0f141c4b283948343c63ff6e28f7746a3/assets/4.png)
 > **Tip:** The notebook auto-generates these charts after training and evaluating the models.
 
 ---
